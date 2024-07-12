@@ -1,0 +1,11 @@
+.button {
+  color: black;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.button :hover {
+  color: green;
+  transition: all 3s linear;
+}
